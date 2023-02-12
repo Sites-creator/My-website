@@ -106,6 +106,7 @@ h2 {
   color: gray;
   font-size: 15px;
   font-weight: 300;
+  cursor: help;
 }
 
 .card-footer {
